@@ -3,7 +3,7 @@ anytree==2.8.0
 Babel==2.9.0
 bleach==3.3.0
 build==0.3.1.post1
-certifi==2020.11.8
+certifi==2023.7.22
 cffi==1.15.1
 chardet==3.0.4
 colorama==0.4.4
